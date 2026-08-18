@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tarif 👋
 
-<!--
-**tarif-poem/tarif-poem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Full Stack Web Developer
 
-Here are some ideas to get you started:
+I'm currently learning Full Stack Web Development and building projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Node.js
+- Git & GitHub
+
+## 🛠️ Skills
+
+HTML • CSS • JavaScript • Python • Node.js • Git • GitHub
+
+## 📌 Projects
+
+### 🎉 New Year Offer
+A responsive web design project built with HTML and CSS.
+
+### 🌐 First Assignment
+My first HTML web development assignment.
+
+## 🌱 My Goal
+
+To become a skilled Full Stack Web Developer by continuously learning and building real-world projects.
+
+---
+
+⭐ Thanks for visiting my profile!
