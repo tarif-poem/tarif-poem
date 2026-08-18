@@ -15,7 +15,6 @@ I'm learning web development and building projects to improve my skills every da
 - NODE
 - Git
 -  GitHub
-- 
 
 ---
 
